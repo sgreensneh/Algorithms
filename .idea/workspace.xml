@@ -2,30 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d7f9f1c-2f42-485c-95fc-120fa8ae4094" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javaProjects.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chaptersix/Divisible.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chaptersix/Divisible.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chaptersix/chapterThree/Account.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chaptersix/chapterThree/ClassAverage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chaptersix/chapterThree/Native.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chaptersix/chapterThree/Welcome.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProblemSolving/Maskify.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problemSolving/Maskify.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProblemSolving/NaturalNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problemSolving/NaturalNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapterFour/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterFour/Factorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapterFour/Factors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterFour/Factors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapterFour/Fourteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterFour/Fourteen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapterFour/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterFour/PrimeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapterFour/SingleSelection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterFour/SingleSelection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapterFour/WhileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterFour/WhileLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tdd/AutomaticBike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterThree/AutomaticBike.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Driller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterThree/Driller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/DrillerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/DrillerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/tdd/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterTwo/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/tdd/AccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/tdd/AccountTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/tdd/AirCondition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterThree/AirCondition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/tdd/AirConditionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/tdd/AirConditionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/tdd/AutomaticBikeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/tdd/AutomaticBikeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapterFourteen/DateTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterFourteen/DateTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapterThree/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterThree/Account.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,8 +16,8 @@
       <list>
         <option value="package.json" />
         <option value="Interface" />
-        <option value="JUnit5 Test Class" />
         <option value="Enum" />
+        <option value="JUnit5 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -60,26 +39,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/sgreen/Downloads/jar_files/jackson-datatype-jsr310-2.15.0-rc1.jar&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "true",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "full.screen.before.presentation.mode": "false",
+    "last_opened_file_path": "C:/Users/sgreen/IdeaProjects/Algorithms",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="tdd" />
@@ -100,23 +79,23 @@
       <recent name="AutomaticBike" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="practice" />
       <recent name="dsa" />
       <recent name="chapterFourteen" />
       <recent name="arrays" />
       <recent name="chapterFifteen" />
-      <recent name="DSA" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="tdd" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BigDecimalSample">
-    <configuration name="BigDecimalSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="selfWork.BigDecimalSample" />
+  <component name="RunManager" selected="Application.Pow">
+    <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.FizzBuzz" />
       <module name="javaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="selfWork.*" />
+          <option name="PATTERN" value="algorithms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassWork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapterSeventeen.ClassWork" />
+    <configuration name="Pow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.Pow" />
       <module name="javaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapterSeventeen.*" />
+          <option name="PATTERN" value="algorithms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tiicTacToe.Main" />
+    <configuration name="SwapAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.SwapAlgorithm" />
       <module name="javaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tiicTacToe.*" />
+          <option name="PATTERN" value="practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Partition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapterSeventeen.Partition" />
+    <configuration name="Testing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.Testing" />
       <module name="javaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapterSeventeen.*" />
+          <option name="PATTERN" value="algorithms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamsExampleTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.StreamsExampleTwo" />
+    <configuration name="TrailingZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.TrailingZero" />
       <module name="javaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dsa.*" />
+          <option name="PATTERN" value="algorithms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,19 +156,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BigDecimalSample" />
-      <item itemvalue="Application.Partition" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.ClassWork" />
-      <item itemvalue="Application.StreamsExampleTwo" />
+      <item itemvalue="Application.Pow" />
+      <item itemvalue="Application.FizzBuzz" />
+      <item itemvalue="Application.Testing" />
+      <item itemvalue="Application.TrailingZero" />
+      <item itemvalue="Application.SwapAlgorithm" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BigDecimalSample" />
-        <item itemvalue="Application.Partition" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ClassWork" />
-        <item itemvalue="Application.StreamsExampleTwo" />
+        <item itemvalue="Application.Pow" />
+        <item itemvalue="Application.Testing" />
+        <item itemvalue="Application.TrailingZero" />
+        <item itemvalue="Application.FizzBuzz" />
+        <item itemvalue="Application.SwapAlgorithm" />
       </list>
     </recent_temporary>
   </component>
@@ -260,6 +239,14 @@
       <workItem from="1684140682621" duration="2358000" />
       <workItem from="1684703030362" duration="611000" />
       <workItem from="1684964554177" duration="1364000" />
+      <workItem from="1685392284224" duration="847000" />
+      <workItem from="1685780547445" duration="9636000" />
+      <workItem from="1686638247742" duration="17708000" />
+      <workItem from="1686716652489" duration="747000" />
+      <workItem from="1686717935619" duration="18820000" />
+      <workItem from="1686924187886" duration="12335000" />
+      <workItem from="1692018307449" duration="10415000" />
+      <workItem from="1692353792699" duration="6350000" />
     </task>
     <servers />
   </component>
@@ -276,5 +263,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/javaProjects$SimpleCalculatorTest_twoPlusTwoEqualsFour.ic" NAME="SimpleCalculatorTest.twoPlusTwoEqualsFour Coverage Results" MODIFIED="1685783546249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>practice.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/javaProjects$SimpleCalculator.ic" NAME="SimpleCalculator Coverage Results" MODIFIED="1685838390494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>practice.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/javaProjects$LetterGradeTest.ic" NAME="LetterGradeTest Coverage Results" MODIFIED="1685837813246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>practice.*</FILTER>
+    </SUITE>
   </component>
 </project>

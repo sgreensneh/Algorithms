@@ -7,8 +7,8 @@ import java.time.format.DateTimeFormatter;
 public class DateTask {
     public static void main(String[] args) {
         String date = "17/04/1991";
-//        String[] tokenizeDate = date.split("/");
-//        System.out.println(convertDate2(date));
+        String[] tokenizeDate = date.split("/");
+        System.out.println(convertDate2(date));
 //        System.out.println(convert(date));
 
     }
@@ -22,7 +22,7 @@ public class DateTask {
 //    }
 
     public static  String convertDate2(String date){
-        LocalDate  localDate = LocalDate.now();
+//
         LocalDate parsedDate = LocalDate.parse(date, DateTimeFormatter.ofPattern("dd/MM/yyyy"));
         int dayOfTheMonth = parsedDate.getDayOfMonth();
         String dayOfTheWeek = String.valueOf(parsedDate.getDayOfWeek());
