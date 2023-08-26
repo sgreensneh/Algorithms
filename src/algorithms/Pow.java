@@ -3,7 +3,11 @@ package algorithms;
 public class Pow {
     public static void main(String[] args) {
         double base = 2;
+
         int exponent = 14;
+
+
+
         System.out.println(pow(base, exponent));
         System.out.println(myPow(base, exponent));
 

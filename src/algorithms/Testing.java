@@ -3,10 +3,14 @@ package algorithms;
 public class Testing {
     public static void main(String[] args) {
         int n = 911;
+
         double base = 2;
         int exponent = 14;
         System.out.println(reversedNum(n));
         System.out.println(p(base, exponent));
+
+        System.out.println(reversedNum(n));
+
     }
 
     public  static int reversedNum(int n){
@@ -18,6 +22,7 @@ public class Testing {
         return reverse;
 
     }
+
 
     public static double p(double x, int n){
         if(n == 0){
@@ -38,4 +43,5 @@ public class Testing {
         }
         return results;
     }
+
 }
